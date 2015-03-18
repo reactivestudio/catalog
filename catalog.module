@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Каталог feature.
+ */
+
+include_once 'catalog.features.inc';
